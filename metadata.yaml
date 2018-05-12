@@ -1,0 +1,30 @@
+_repo: Die-griechische-T-nzerin-und-andere-Novellen_17142
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schnitzler, Arthur
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '3010'
+    url: http://www.gutenberg.org/2009/agents/3010
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Schnitzler
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2005-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17142'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Short stories'
+tableOfContents: "Der blinde Geronimo und sein Bruder\r\nDie Toten schweigen\r\nDie\
+  \ Weissagung\r\nDas neue Lied\r\nDie griechische Tänzerin"
+title: Die griechische Tänzerin, und andere Novellen
+url: http://www.gutenberg.org/ebooks/17142
